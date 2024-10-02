@@ -12,4 +12,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saf-One&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Saf-One&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
