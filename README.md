@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwan.fkazi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)]([mailto:safwan.fkazi@gmail.com](https://mail.google.com/mail/?view=cm&to=safwan.fkazi@gmail.com))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/den._.zor) 
 
 # 💻 Tech Stack:
